@@ -39,7 +39,7 @@ h1 {
   left: -30px;
 }
 
-table:after {
+.table:after {
   content: "</table>";
   bottom: -30px;
   left: -30px;
