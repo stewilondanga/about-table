@@ -45,12 +45,13 @@ table:after {
   left: -30px;
 }
 
-/*tr:before {
+tr:before {
   content: "<tr>";
   left: -30px;
   margin-top: 11px;
 }
-tr:after {
+
+/*tr:after {
   content: "</tr>";
   right: -40px;
   margin-top: 11px;
