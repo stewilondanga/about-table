@@ -51,7 +51,7 @@ h1 {
   margin-top: 11px;
 }
 
-tr:after {
+.table, tr:after {
   content: "</tr>";
   right: -40px;
   margin-top: 11px;
