@@ -19,6 +19,7 @@ h1 {
 
 .table, tr, td, th {
   position: relative;
+  margin: 40px;
 }
 
 /*.table, table:before, table:after, tr:before, tr:after, td:before, td:after, th:before, th:after {
@@ -30,7 +31,7 @@ h1 {
 }
 
 .table {
-  margin: 40px;
+
 }
 
 .table:before {
