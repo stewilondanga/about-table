@@ -71,11 +71,12 @@ h1 {
   font-size: 0.9em;
 }
 
-/*th:before {
+.table th:before {
   content: '<th scope="col">';
   background: rgba(255, 255, 255, 0.9);
 }
-th:after {
+
+/*th:after {
   content: "</th>";
 }
 
