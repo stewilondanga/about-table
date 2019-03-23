@@ -33,12 +33,13 @@ table {
   margin: 40px;
 }
 
-/*table:before {
+table:before {
   content: "<table>";
   top: -30px;
   left: -30px;
 }
-table:after {
+
+/*table:after {
   content: "</table>";
   bottom: -30px;
   left: -30px;
