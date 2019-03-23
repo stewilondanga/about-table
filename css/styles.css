@@ -33,7 +33,7 @@ h1 {
   margin: 40px;
 }
 
-table:before {
+.table:before {
   content: "<table>";
   top: -30px;
   left: -30px;
