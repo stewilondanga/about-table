@@ -13,11 +13,11 @@
   height: 1.5em;
 }
 
-/*h1 {
+h1 {
   text-align: center;
 }
 
-table, tr, td, th {
+/*table, tr, td, th {
   position: relative;
 }
 table:before, table:after, tr:before, tr:after, td:before, td:after, th:before, th:after {
