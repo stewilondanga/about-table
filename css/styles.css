@@ -45,7 +45,7 @@ h1 {
   left: -30px;
 }
 
-tr:before {
+.table, tr:before {
   content: "<tr>";
   left: -30px;
   margin-top: 11px;
