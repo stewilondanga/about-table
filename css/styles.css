@@ -32,14 +32,13 @@ h1 {
   line-height: 20px;
 }
 
-/*
 .table:before {
   content: "<table>";
   top: -30px;
   left: -30px;
 }
 
-.table:after {
+/*.table:after {
   content: "</table>";
   bottom: -30px;
   left: -30px;
