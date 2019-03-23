@@ -67,12 +67,12 @@ td:before, th:before {
   content: "<td>";
 }
 
-/*td:after, th:after {
+td:after, th:after {
   right: 5px;
   content: "</td>";
 }
 
-th {
+/*th {
   padding-left: 120px;
   font-size: 0.9em;
 }
