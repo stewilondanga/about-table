@@ -61,7 +61,7 @@ h1 {
   content: "<td>";
 }
 
-/*td:after, th:after {
+.table td:after th:after {
   right: 5px;
   content: "</td>";
 }
