@@ -24,7 +24,7 @@ h1 {
   padding: 10px 45px 10px 40px;
 }
 
-/*.table, table:before, table:after, tr:before, tr:after, td:before, td:after, th:before, th:after {
+.table, table:before, table:after, {
   position: absolute;
   font-family: consolas, monaco, monospace;
   font-size: 13px;
@@ -32,10 +32,7 @@ h1 {
   line-height: 20px;
 }
 
-.table {
-
-}
-
+/*
 .table:before {
   content: "<table>";
   top: -30px;
