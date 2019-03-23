@@ -56,12 +56,12 @@ h1 {
   margin-top: 11px;
 }
 
-/*td:before, th:before {
+.table td:before th:before {
   left: 5px;
   content: "<td>";
 }
 
-td:after, th:after {
+/*td:after, th:after {
   right: 5px;
   content: "</td>";
 }
