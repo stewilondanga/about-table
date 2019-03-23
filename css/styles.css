@@ -39,13 +39,13 @@ table:before {
   left: -30px;
 }
 
-/*table:after {
+table:after {
   content: "</table>";
   bottom: -30px;
   left: -30px;
 }
 
-tr:before {
+/*tr:before {
   content: "<tr>";
   left: -30px;
   margin-top: 11px;
