@@ -29,10 +29,11 @@ table:before, table:after, tr:before, tr:after, td:before, td:after, th:before, 
   line-height: 20px;
 }
 
-/*table {
+table {
   margin: 40px;
 }
-table:before {
+
+/*table:before {
   content: "<table>";
   top: -30px;
   left: -30px;
