@@ -21,7 +21,7 @@ table, tr, td, th {
   position: relative;
 }
 
-/*table:before, table:after, tr:before, tr:after, td:before, td:after, th:before, th:after {
+table:before, table:after, tr:before, tr:after, td:before, td:after, th:before, th:after {
   position: absolute;
   font-family: consolas, monaco, monospace;
   font-size: 13px;
@@ -29,7 +29,7 @@ table, tr, td, th {
   line-height: 20px;
 }
 
-table {
+/*table {
   margin: 40px;
 }
 table:before {
