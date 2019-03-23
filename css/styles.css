@@ -44,20 +44,16 @@ h1 {
   left: -30px;
 }
 
-.table, tr:before {
+.table tr:before {
   content: "<tr>";
   left: -30px;
   margin-top: 11px;
 }
 
-/*.table, tr:after {
+.table, tr:after {
   content: "</tr>";
   right: -40px;
   margin-top: 11px;
-}
-
-.table {
-
 }
 
 /*td:before, th:before {
