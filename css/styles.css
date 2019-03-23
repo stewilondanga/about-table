@@ -62,11 +62,12 @@ td, th {
   padding: 10px 45px 10px 40px;
 }
 
-/*td:before, th:before {
+td:before, th:before {
   left: 5px;
   content: "<td>";
 }
-td:after, th:after {
+
+/*td:after, th:after {
   right: 5px;
   content: "</td>";
 }
